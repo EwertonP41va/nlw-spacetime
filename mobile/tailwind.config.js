@@ -6,7 +6,7 @@ module.exports = {
       fontFamily: {
         title: 'Roboto_700Bold',
         body: 'Roboto_400Regular',
-        alt: ' BaiJamjuree_700Bold',
+        alt: 'BaiJamjuree_700Bold',
       },
 
       colors: {
@@ -40,7 +40,7 @@ module.exports = {
           200: '#8cebb6',
           300: '#57e295',
           400: '#36dc81',
-          500: '#04d361',
+          500: '#04c058',
           600: '#04c058',
           700: '#039645',
           800: '#027435',
